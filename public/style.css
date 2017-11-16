@@ -1,0 +1,29 @@
+body{
+	background-color: #F6B4B3;
+	color: #3E000C;
+	text-align: center;
+}
+
+h2{
+	color:#9D695A;
+}
+
+h3{
+	margin-top: -20px;
+	margin-bottom: 100px; 
+}
+
+a{
+	color: #3E000C;
+	text-decoration: none;
+}
+
+a:hover{
+	color:#9D695A;
+}
+
+table{
+	margin-left: 40%;
+}
+
+
